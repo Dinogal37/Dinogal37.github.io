@@ -1,0 +1,77 @@
+---
+title: "Curiculum Vitae"
+format: html
+editor: visual
+---
+
+------------------------------------------------------------------------
+
+### [**Education**]{.underline}
+
+-   **B.S. Biology** (2018 - 2022)
+
+    -   California State Polytechnic University, Pomona
+
+    -   GPA: 3.8
+
+    -   Honors: Summa cum laude; Dean's List (Every Semester); President's Honor List (Every Academic Year)
+
+-   **M.S. Geology** (In Progress)
+
+    -   California State Polytechnic University, Pomona
+
+    -   Current GPA: 4.0
+
+------------------------------------------------------------------------
+
+### [**Relevant Course Work**]{.underline}
+
+-   Geological Science -- Principles of Geology (A) ; Studies of a Blue Planet (A) ; Oceanography (A) ; Age of Dinosaurs (A) ;  Paleontology (A) ; Advanced Sedimentology & Stratigraphy (A) ; Advanced Field Studies (A)
+
+-   Biological Science -- Mammalogy (A) ; Principles of Evolution (A) ; Principles of Ecology (A) ; Biogeography (A) ; Statistics for Biologists Using R (In Progress)
+
+------------------------------------------------------------------------
+
+### [**Skills**]{.underline}
+
+-   Microsoft Suite & Mac equivalent
+
+-   R Coding for Data Analysis & Visualization
+
+-   PAST for Statistical Analysis
+
+-   Photoshop & Procreate
+
+------------------------------------------------------------------------
+
+### [**Roles**]{.underline}
+
+-   Teaching Assistant in Geological Sciences Department at California State Polytechnic University, Pomona (2023 - Present)
+
+    -   Instructor for *Earth, Time and Life* (GSC 1510L)
+
+    -   Course Content: *Paleontology, Evolution, Ecology, Tectonics, Stratigraphy*
+
+------------------------------------------------------------------------
+
+### [**Publications**]{.underline}
+
+**Watmore, K.I.**, and D.R. Prothero. 2022. Stasis During Climate Change in the Ferruginous Hawk (Buteo regalis) from La Brea Tar Pits. New Mexico Museum of Natural History Bulletin 89. V(8).  
+
+**Watmore, K.I.**, and D.R. Prothero. 2022. New material of Mesoreodon from the Upper Oligocene Otay Formation, San Diego County, California. New Mexico Museum of Natural  History Bulletin 89. V(8).
+
+Marriott, K.L., D.R. Prothero, and **K.I. Watmore**. 2022. Stasis During Climate Change in the Northern Harrier (Circus hudsonius) from La Brea Tar Pits. New Mexico Museum of Natural  History Bulletin 89. V(8).
+
+Marriott, K., Olson, S., Balassa, D., Cleaveland, C., **Watmore, K.I.**, LaVine, R.J., Olson, R., and Prothero, D.R. 2022. Ontogenetic Trends of Sutural Complexity in Jurassic Ammonites. Geosciences. V(12). no. 66. [https://doi.org/10.3390/geosciences12020066](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdoi.org%2F10.3390%2Fgeosciences12020066&data=04%7C01%7Ckiwatmore%40cpp.edu%7Cc82bab1a23d34f4b758808d9e5c65fda%7C164ba61e39ec4f5d89ffaa1f00a521b4%7C0%7C0%7C637793462433520134%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=bgXO0TAbRsYk0R%2B%2BrSBsPySfPl2v2AwMUbiC1rjCX1o%3D&reserved=0)
+
+[**In Progress**]{.underline}
+
+**Watmore, K.I.**, Madan Richards, M., and D.R. Prothero. 2023. Gigantic Sperm Whale Tooth from the Miocene of Orange County, California. PLOS One. (under review)
+
+**Watmore, K.I.** and Prothero, D.R. 2023. Dietary Modifications of the Teeth in the Early Miocene Stenomyline Camels (Camelidae: Artiodactyla). New Mexico Museum of Natural History Bulletin. (under review)
+
+Stevens, M.S., Prothero, D.R., Welsh, E., Balassa, D., Cleaveland, C., Htun, T., Mariott, K.L., Olson, S., and **Watmore, K.I.** 2023. Review of the Miocene oreodonts (Merycoidodontidae: Artiodactyla). New Mexico Museum of Natural History Bulletin. (in progress)
+
+------------------------------------------------------------------------
+
+*Last updated: 5/16/23*

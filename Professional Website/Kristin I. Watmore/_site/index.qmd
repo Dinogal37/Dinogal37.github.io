@@ -1,0 +1,23 @@
+---
+title: "Greetings and welcome to my site!"
+---
+
+------------------------------------------------------------------------
+
+### **Kristin I. Watmore**
+
+-   **M.S. Geology ('24)**
+
+-   **B.S. Biology ('22)**
+
+------------------------------------------------------------------------
+
+### [**Recent Adventures**]{.underline}
+
+![Utah Fieldwork in the *Neslen Formation*, holding a dinosaurian rib fragment (2022)](IMG_7815%20copy.jpg){fig-align="center"}
+
+![Utah Fieldwork in the *Neslen Formation*, excavating a sauropod limb bone (2022)](IMG_4827%20copy.JPEG){alt="Utah Fieldwork in the Neslen Formation, excavating a sauropod limb bone (2022)"}
+
+![Los Angeles County Museum of Natural History, measuring Miocene pronghorn jaws (2022)](IMG_7599%20copy.JPEG){alt="Los Angeles County Museum of Natural History, measuring Miocene pronghorn jaws (2022)" fig-align="center"}
+
+![Los Angeles County Museum of Natural History, measuring Miocene camel limbs (2023)](IMG_1565%20copy.JPEG)
